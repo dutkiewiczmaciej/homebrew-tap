@@ -1,6 +1,6 @@
-# Homebrew Tap — MakMak
+# Homebrew Tap
 
-Homebrew formulae and casks for [MakMak](https://github.com/dutkiewiczmaciej) tools.
+Homebrew formulae and casks for [MakLock](https://github.com/dutkiewiczmaciej/MakLock) and other tools by [Maciej Dutkiewicz](https://github.com/dutkiewiczmaciej).
 
 ## Install
 
